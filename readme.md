@@ -30,8 +30,4 @@ Schools are sorted from nearest to farthest distance for better location-based r
 
 
 🚀 Conclusion
-This project is a fully deployed backend API built for school management and location-based school searching.
-The API is developed using Express.js and Node.js for backend server handling, MySQL for database management, and Prisma ORM for database queries and schema management.
-The project supports adding school data, validating user input, storing records in the database, and finding nearest schools using latitude and longitude calculations.
-The application is successfully deployed and live on Render.
-
+A backend API for managing and finding nearby schools using location-based distance calculation. Built with Node.js, Express.js, MySQL, and Prisma ORM.
