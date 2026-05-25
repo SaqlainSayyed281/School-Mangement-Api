@@ -24,6 +24,8 @@ Schools are sorted from nearest to farthest distance for better location-based r
 ✅ Returns distance in meters and kilometers  
 ✅ Sends clean formatted API responses  
 ✅ Handles server and validation errors properly
+✅ Improves location-based school searching experience
+
 
 
 
